@@ -1,0 +1,62 @@
+[
+        {
+            "id": 3,
+            "brand": "Nora Estrada",
+            "model": "Margaret Morgan",
+            "price": 94543.9,
+            "currency": "NOK",
+            "reference_code": "3nPAV1Y0lA",
+            "description": "Wujad sibin ruri bi voj.",
+            "city_id": 1,
+            "created_at": "2020-02-20 08:34:15",
+            "updated_at": "2020-02-20 08:34:15"
+        },
+        {
+            "id": 1,
+            "brand": "Cody Gonzales",
+            "model": "Tommy Gordon",
+            "price": 7755.35,
+            "currency": "DZD",
+            "reference_code": "R@Mq4cBfa]",
+            "description": "Osi toihiur padre rojjawe eti.",
+            "city_id": 1,
+            "created_at": "2020-02-20 08:34:15",
+            "updated_at": "2020-02-20 08:34:15"
+        },
+        {
+            "id": 4,
+            "brand": "Rolex",
+            "model": "Daytona",
+            "price": 22000,
+            "currency": "usd",
+            "reference_code": "116500LN",
+            "description": "Cosmograph Daytona Steel / Cerachrom / Black\n\nIntroduced at BaselWorld 2016, the Rolex Daytona 116500ln-0002 features a stainless steel case and a black ceramic bezel. Reference 116500ln-0001 is similar though fitted with a white dial.",
+            "city_id": 1,
+            "created_at": "2020-02-20 08:36:19",
+            "updated_at": "2020-02-20 08:38:25"
+        },
+        {
+            "id": 5,
+            "brand": "Rolex",
+            "model": "Submariner",
+            "price": 5600,
+            "currency": "eur",
+            "reference_code": "116613LB",
+            "description": "Rolex Submariner Stainless Steel & 18K Yellow Gold Blue Ceramic",
+            "city_id": 1,
+            "created_at": "2020-02-20 08:40:27",
+            "updated_at": "2020-02-20 08:40:27"
+        },
+        {
+            "id": 2,
+            "brand": "Cecelia Howell",
+            "model": "Alexander Houston",
+            "price": 68176.2,
+            "currency": "MMK",
+            "reference_code": "P&vYb81]fg",
+            "description": "Ketod obwul dihfari gure vad.",
+            "city_id": 1,
+            "created_at": "2020-02-20 08:34:15",
+            "updated_at": "2020-02-20 08:34:15"
+        }
+    ]
